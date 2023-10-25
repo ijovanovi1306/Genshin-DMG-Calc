@@ -7,9 +7,6 @@ Simple app to calculate the damage for GI characters vs specific enemies. Presen
 ### Video Example of App Usage
 [![Watch the video](https://img.youtube.com/vi/QvYyUY4Vkq8/hqdefault.jpg)](https://www.youtube.com/watch?v=QvYyUY4Vkq8)
 
-[<img src="https://img.youtube.com/vi/QvYyUY4Vkq8/hqdefault.jpg" width="600" height="300"
-/>](https://www.youtube.com/embed/QvYyUY4Vkq8)
-
 
 
 ## List of functionalities
